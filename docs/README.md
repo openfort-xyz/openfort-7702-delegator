@@ -1,7 +1,7 @@
 # Openfort EIP-7702 Smart Contract Accounts
 
 <p style="background-color: black; display: inline-block; padding: 5px;">
-  <img src="contracts/Logo_black_primary_no_bg.png" alt="Openfort" style="width: 300px;" />
+  <img src="./contracts/Logo_black_primary_no_bg.png" alt="Openfort" style="width: 300px;" />
 </p>
 
 This documentation covers the implementation of EIP-7702 compatible smart contract accounts by Openfort. These accounts enable account abstraction while leveraging the new capabilities introduced by EIP-7702 (Pectra Upgrade).
