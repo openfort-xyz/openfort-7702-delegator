@@ -1,0 +1,30 @@
+{
+  "name": "openfort-7702-account",
+  "version": "1.0.0",
+  "description": "<p style=\"background-color: black; display: inline-block; padding: 5px;\">   <img src=\"contracts/Logo_black primary no bg.png\" alt=\"Openfort\" style=\"width: 300px;\" /> </p>",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/openfort-xyz/openfort-7702-account.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/openfort-xyz/openfort-7702-account/issues"
+  },
+  "homepage": "https://github.com/openfort-xyz/openfort-7702-account#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "ethers": "^5.8.0",
+    "viem": "^2.28.0-entrypoint-0-8-20250417075822"
+  },
+  "type": "module"
+}
